@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://muaxr.github.io/KcI/sitemap.KcI.gz
